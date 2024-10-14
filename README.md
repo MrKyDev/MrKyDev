@@ -11,7 +11,7 @@
 
 <br/><br/><br/>
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://cdn.shopify.com/s/files/1/0017/0432/9285/files/programming-quotes-for-developers-made4dev-programmer-author.jpg?v=1539287556))
 <br/><br/><br/>
 
 ### 🔝 Top Contributed Repo
@@ -20,8 +20,5 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Vedonic-BND/Vedonic-BND/output/github-contribution-grid-snake.svg" />
   <br/><br/>
   
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vedonic) 
-
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
