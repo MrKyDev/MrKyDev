@@ -17,7 +17,7 @@
 
 <div align="center">
   🌱 I’m currently learning HTML, CSS, JavaScript, Tailwind, C++, Python<br>
-  💬 Ask me about anything here kydev1323@gmail.com
+  💬 Ask me about anything here: <a href="mailto:kydev1323@gmail.com">kydev1323@gmail.com</a>
 </div> 
 
 <div align="center"> 
@@ -25,16 +25,16 @@
     <img src="https://static.vecteezy.com/system/resources/thumbnails/016/716/465/small_2x/gmail-icon-free-png.png" target="_blank" width="5%"/>
   </a>
   <a href="https://www.linkedin.com/in/kyle-joshua-noel-alvaro-968061325/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-CcFPUPpws-zubkp_7gigAYG1AM5zl_Nw1g&s" target="_blank" width="10%"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width="5%"/>
   </a>
   <a href="https://github.com/MrKyDev" target="_blank">
      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" target="_blank" width="5%" />
   </a>
   <a href="https://www.instagram.com/kydev_pcm2600" target="_blank">
-     <img src="https://static.vecteezy.com/system/resources/previews/042/127/160/non_2x/instagram-logo-on-circle-style-with-transparent-background-free-png.png" target="_blank" width="6%"/> 
+     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" target="_blank" width="5%"/> 
   </a>
   <a href="https://www.facebook.com/PCM2600" target="_blank">
-     <img src="https://www.freeiconspng.com/uploads/logo-facebook-circle-png-pictures-9.png" target="_blank" width="5%"/> 
+     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" target="_blank" width="5%"/> 
   </a>
 </div>
 
@@ -46,10 +46,15 @@
 </div>
 
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=MrKyDev&theme=react&hide_border=true" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MrKyDev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <!-- Streak Stats -->
+  <img width=390 src="https://streak-stats.demolab.com/?user=MrKyDev&theme=react&hide_border=true" alt="GitHub Streak Stats"/>
+  
+  <!-- GitHub Stats -->
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MrKyDev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
+  
+  <!-- Top Languages -->
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKyDev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKyDev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
 </div>
 
 <br/>
