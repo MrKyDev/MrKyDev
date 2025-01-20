@@ -27,7 +27,7 @@
      <img src="https://static.vecteezy.com/system/resources/previews/042/127/160/non_2x/instagram-logo-on-circle-style-with-transparent-background-free-png.png" target="_blank" width=6%/> 
   </a>
     <a href="https://www.facebook.com/PCM2600" target="_blank">
-     <img src="https://www.freeiconspng.com/uploads/logo-facebook-circle-png-pictures-9.png" target="_blank" width=8%/> 
+     <img src="https://www.freeiconspng.com/uploads/logo-facebook-circle-png-pictures-9.png" target="_blank" width=5%/> 
   </a>
 </div>
 
