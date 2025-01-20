@@ -24,7 +24,7 @@
      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" target="_blank" width="5%" />
   </a>
     <a href="https://www.instagram.com/kydev_pcm2600" target="_blank">
-     <img src="https://static.vecteezy.com/system/resources/previews/042/127/160/non_2x/instagram-logo-on-circle-style-with-transparent-background-free-png.png" target="_blank" width=5%/> 
+     <img src="https://static.vecteezy.com/system/resources/previews/042/127/160/non_2x/instagram-logo-on-circle-style-with-transparent-background-free-png.png" target="_blank" width=6%/> 
   </a>
 </div>
 
