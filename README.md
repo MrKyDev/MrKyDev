@@ -1,4 +1,3 @@
-![Snake Animation](https://github.com/MrKyDev/MrKyDev/blob/output/github-contribution-grid-snake.svg)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MrKyDev.MrKyDev" />
 
@@ -7,6 +6,8 @@
 </h1>
 <div align="center">
   <br>
+    ![Snake Animation](https://github.com/MrKyDev/MrKyDev/blob/output/github-contribution-grid-snake.svg)
+
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MrKyDev/MrKyDev/output/github-contribution-grid-snake.svg" />
 </div>
 <h3 align="center">A Passionate Frontend Developer</h3>
