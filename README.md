@@ -27,7 +27,7 @@
      <img src="https://static.vecteezy.com/system/resources/previews/042/127/160/non_2x/instagram-logo-on-circle-style-with-transparent-background-free-png.png" target="_blank" width=6%/> 
   </a>
     <a href="https://www.facebook.com/PCM2600" target="_blank">
-     <img src="https://img.freepik.com/free-psd/3d-icon-social-media-app_23-2150049579.jpg?semt=ais_incoming" target="_blank" width=10%/> 
+     <img src="https://static.vecteezy.com/system/resources/previews/045/934/258/non_2x/facebook-logo-icon-transparent-background-free-png.png" target="_blank" width=10%/> 
   </a>
 </div>
 
