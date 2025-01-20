@@ -15,13 +15,13 @@
  </div> 
 <div align="center"> 
   <a href="mailto:kydev1323@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDtTZEQ6BIdru7iWN5OtLSiSYV7sp6K5qCxA&s" target="_blank" width="50%"/>
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz](https://www.linkedin.com/in/kyle-joshua-noel-alvaro-968061325/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-CcFPUPpws-zubkp_7gigAYG1AM5zl_Nw1g&s" target="_blank" width=50%/>
   </a>
   <a href="https://github.com/MrKyDev" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+     <img src="https://pngimg.com/d/github_PNG17.png" target="_blank" width="50%" />
   </a>
     <a href="https://www.instagram.com/kydev_pcm2600" target="_blank">
      <img src="https://static.vecteezy.com/system/resources/previews/042/127/160/non_2x/instagram-logo-on-circle-style-with-transparent-background-free-png.png" target="_blank" width=10%/> 
