@@ -16,8 +16,8 @@
 <h3 align="center">A Passionate Frontend Developer</h3>
 
 <div align="center">
-  🌱 I’m currently learning **HTML, CSS, JavaScript, Tailwind, C++, Python**<br>
-  💬 Ask me about **anything here kydev1323@gmail.com**
+  🌱 I’m currently learning HTML, CSS, JavaScript, Tailwind, C++, Python<br>
+  💬 Ask me about anything here kydev1323@gmail.com
 </div> 
 
 <div align="center"> 
