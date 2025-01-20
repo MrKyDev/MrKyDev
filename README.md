@@ -5,7 +5,6 @@
     <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
- <br/>
 </h1>
 <h3 align="center">A Passionate Frontend Developer 🇨🇦</h3>
 <div align="center">
