@@ -5,29 +5,7 @@
 </h1>
 <div align="center">
   <br>
-    <div>
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: MrKyDev
-          outputs: dist/snake.svg
-      - name: Upload Snake Animation
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake-animation
-          path: dist/snake.svg
-
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MrKyDev/MrKyDev/output/github-contribution-grid-snake.svg" />
 </div>
 <h3 align="center">A Passionate Frontend Developer</h3>
 <div align="center">
@@ -60,11 +38,10 @@ jobs:
 </div>
 
 <div align=center>
-  <img width=390 src="[!GitHub Streak](https://streak-stats.demolab.com/?user=MrKyDev&theme=react&hide_border=true
-" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-mrkydev.vercel.app/api?username=MrKyDev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=MrKyDev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MrKyDev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-mrkydev.vercel.app/api/top-langs/?username=MrKyDev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKyDev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br/>
 <hr/>
