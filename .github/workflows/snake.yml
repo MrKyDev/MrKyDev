@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,9 +13,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: MrKyDev
-          outputs: dist/snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
       - name: Upload Snake Animation
-        uses: actions/upload-artifact@v3
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          name: snake-animation
-          path: dist/snake.svg
+          target_branch: output
+          build_dir: dist
