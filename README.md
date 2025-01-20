@@ -28,7 +28,7 @@
  <hr/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql,Lightroom,Capcut,Picarts" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql,lightroom,capcut" /><br>
 </div>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
