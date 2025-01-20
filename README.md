@@ -3,11 +3,18 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MrKyDev!" />
 </h1>
+
 <div align="center">
   <br>
-  ![Snake Animation](https://raw.githubusercontent.com/MrKyDev/MrKyDev/output/github-contribution-grid-snake.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrKyDev/MrKyDev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrKyDev/MrKyDev/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/MrKyDev/MrKyDev/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
+
 <h3 align="center">A Passionate Frontend Developer</h3>
+
 <div align="center">
   🌱 I’m currently learning **HTML, CSS, JavaScript, Tailwind, C++, Python**<br>
   💬 Ask me about **anything [here](mailto:kydev1323@gmail.com)**
@@ -32,6 +39,7 @@
 </div>
 
 <hr/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,c,java" /><br>
@@ -43,5 +51,6 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKyDev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
 <br/>
 <hr/>
