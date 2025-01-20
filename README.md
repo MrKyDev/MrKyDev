@@ -15,10 +15,10 @@
  </div> 
 <div align="center"> 
   <a href="mailto:kydev1323@gmail.com">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDtTZEQ6BIdru7iWN5OtLSiSYV7sp6K5qCxA&s" target="_blank" width="50%"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDtTZEQ6BIdru7iWN5OtLSiSYV7sp6K5qCxA&s" target="_blank" width="10%"/>
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz](https://www.linkedin.com/in/kyle-joshua-noel-alvaro-968061325/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-CcFPUPpws-zubkp_7gigAYG1AM5zl_Nw1g&s" target="_blank" width=50%/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-CcFPUPpws-zubkp_7gigAYG1AM5zl_Nw1g&s" target="_blank" width=10%/>
   </a>
   <a href="https://github.com/MrKyDev" target="_blank">
      <img src="https://pngimg.com/d/github_PNG17.png" target="_blank" width="50%" />
