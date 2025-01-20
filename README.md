@@ -1,4 +1,3 @@
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MrKyDev.MrKyDev" />
 
 <h1 align="center">
@@ -6,6 +5,7 @@
 </h1>
 <div align="center">
   <br>
+    <div>
 name: Generate Snake
 
 on:
