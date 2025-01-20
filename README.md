@@ -6,7 +6,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </h1>
-<h3 align="center">A Passionate Frontend Developer 🇨🇦</h3>
+<h3 align="center">A Passionate Frontend Developer</h3>
 <div align="center">
  
  🌱 I’m currently learning **HTML and CSS, Java Script, TailWind, C++, Python**
@@ -28,7 +28,7 @@
  <hr/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql,lightroom,capcut" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java" /><br>
 </div>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
