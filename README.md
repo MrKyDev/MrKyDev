@@ -15,7 +15,7 @@
  </div> 
 <div align="center"> 
   <a href="mailto:kydev1323@gmail.com">
-    <img src="https://static.vecteezy.com/system/resources/thumbnails/016/716/465/small_2x/gmail-icon-free-png.png" target="_blank" width="20%"/>
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/016/716/465/small_2x/gmail-icon-free-png.png" target="_blank" width="5%"/>
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz](https://www.linkedin.com/in/kyle-joshua-noel-alvaro-968061325/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-CcFPUPpws-zubkp_7gigAYG1AM5zl_Nw1g&s" target="_blank" width=10%/>
