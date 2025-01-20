@@ -47,7 +47,7 @@
 
 <div align=center>
   <!-- Streak Stats -->
-  <img width=390 src="https://streak-stats.demolab.com/?user=MrKyDev&theme=react&hide_border=true" alt="GitHub Streak Stats"/>
+  <img width=390 src="[https://streak-stats.demolab.com/?user=MrKyDev&theme=react&hide_border=true](https://streak-stats.demolab.com/?user=MrKyDev&theme=react&hide_border=true)" alt="GitHub Streak Stats"/>
   
   <!-- GitHub Stats -->
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=MrKyDev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
