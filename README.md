@@ -5,24 +5,15 @@
     <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+ <br/>
 </h1>
-
 <h3 align="center">A Passionate Frontend Developer 🇨🇦</h3>
-
-<br/>
-
 <div align="center">
- 
  
  🌱 I’m currently learning **HTML and CSS, Java Script, TailWind, C++, Python**
 
-💬 Ask me about **anything [here](https://github.com/MrKyDev)**
-
-
- </div>
- 
+💬 Ask me about **anything [here](KyDev1323@gmail.com)**
+ </div> 
 <div align="center"> 
   <a href="mailto:kydev1323@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -51,12 +42,3 @@
 </div>
 <br/>
 <hr/>
-
-
-</div>
-
-<hr/>
-
-<br/>
-
-<br/>
