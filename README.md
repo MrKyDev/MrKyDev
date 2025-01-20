@@ -26,6 +26,9 @@
     <a href="https://www.instagram.com/kydev_pcm2600" target="_blank">
      <img src="https://static.vecteezy.com/system/resources/previews/042/127/160/non_2x/instagram-logo-on-circle-style-with-transparent-background-free-png.png" target="_blank" width=6%/> 
   </a>
+    <a href="https://www.facebook.com/PCM2600" target="_blank">
+     <img src="(https://www.google.com/search?q=facebook+logo+no+background&sca_esv=68da22e22d7d0e6b&udm=2&biw=1912&bih=962&sxsrf=ADLYWII62OtQI1roefeRgTOYmcBcfvyoVg%3A1737355799926&ei=F_KNZ_qWOJni2roP7-WEuA8&oq=facebook+logo+no&gs_lp=EgNpbWciEGZhY2Vib29rIGxvZ28gbm8qAggAMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBBAAGB4yBBAAGB5IpTJQAFioKXAEeACQAQCYAbcBoAHuEaoBBDAuMTS4AQPIAQD4AQGYAg6gAtAOwgIEECMYJ8ICChAAGIAEGEMYigXCAgsQABiABBixAxiDAcICCBAAGIAEGLEDwgIQEAAYgAQYsQMYQxiDARiKBcICDRAAGIAEGLEDGEMYigWYAwCSBwQzLjExoAfXPw&sclient=img#vhid=uE3qiqWlZ_WRlM&vssid=mosaic" target="_blank" width=6%/> 
+  </a>
 </div>
 
  <hr/>
