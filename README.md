@@ -6,7 +6,27 @@
 </h1>
 <div align="center">
   <br>
-![GitHub Streak](https://streak-stats.demolab.com/?user=MrKyDev&theme=react&hide_border=true)
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: MrKyDev
+          outputs: dist/snake.svg
+      - name: Upload Snake Animation
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-animation
+          path: dist/snake.svg
 
 </div>
 <h3 align="center">A Passionate Frontend Developer</h3>
