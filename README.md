@@ -21,7 +21,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-CcFPUPpws-zubkp_7gigAYG1AM5zl_Nw1g&s" target="_blank" width=10%/>
   </a>
   <a href="https://github.com/MrKyDev" target="_blank">
-     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" target="_blank" width="10%" />
+     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" target="_blank" width="3%" />
   </a>
     <a href="https://www.instagram.com/kydev_pcm2600" target="_blank">
      <img src="https://static.vecteezy.com/system/resources/previews/042/127/160/non_2x/instagram-logo-on-circle-style-with-transparent-background-free-png.png" target="_blank" width=5%/> 
