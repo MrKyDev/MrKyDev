@@ -1,3 +1,5 @@
+![Snake Animation](https://github.com/MrKyDev/MrKyDev/blob/output/github-contribution-grid-snake.svg)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MrKyDev.MrKyDev" />
 
 <h1 align="center">
