@@ -36,9 +36,6 @@
 </div>
 </div>
 
- <hr/>
- 
-
 <hr/>
 
 <div align="center">
