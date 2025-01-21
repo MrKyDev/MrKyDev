@@ -6,11 +6,7 @@
 
 <div align="center">
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrKyDev/MrKyDev/output/dist/github-contribution-grid-snake-dark.svg?v=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrKyDev/MrKyDev/output/dist/github-contribution-grid-snake.svg?v=1" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/MrKyDev/MrKyDev/output/dist/github-contribution-grid-snake.svg?v=1" />
-  </picture>
+  ![snake gif](https://github.com/MrKyDev/MrKyDev/blob/output/github-snake-dark.svg)
 </div>
 
 <h3 align="center">A Passionate Frontend Developer</h3>
