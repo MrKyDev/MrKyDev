@@ -7,7 +7,7 @@
   ![snake gif](https://github.com/MrKyDev/MrKyDev/blob/output/github-snake-dark.svg)
 
 
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <div align="center">
   🌱 I’m currently learning HTML, CSS, JavaScript, Tailwind, C++, Python<br>
