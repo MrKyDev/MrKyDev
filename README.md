@@ -22,7 +22,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width="5%"/>
   </a>
   <a href="https://github.com/MrKyDev" target="_blank">
-     <img src="[https://cdn-icons-png.flaticon.com/512/25/25231.png](https://cdn3d.iconscout.com/3d/free/thumb/free-github-8173947-6491025.png)" target="_blank" width="5%" />
+     <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-8173947-6491025.png" target="_blank" width="5%" />
   </a>
   <a href="https://www.instagram.com/kydev_pcm2600" target="_blank">
      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" target="_blank" width="5%"/> 
