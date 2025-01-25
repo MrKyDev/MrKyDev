@@ -36,7 +36,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git,laravel, blade" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,C++" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,C++" /><br>
 </div>
 
 <div align="center">
