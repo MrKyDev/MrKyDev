@@ -10,7 +10,7 @@
 <h3 align="center">Frontend Developer</h3>
 
 <div align="center">
-  🌱 I’m currently learning HTML, CSS, JavaScript, Tailwind, C++, Python<br>
+  🌱 I’m currently learning HTML, CSS, JavaScript, Tailwind, C++, Python, Laravel, Blade<br>
   💬 Ask me anything: <a href="mailto:kydev1323@gmail.com">kydev1323@gmail.com</a>
 </div>
 
@@ -35,8 +35,8 @@
 <hr/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,notepad++,laravel" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git,laravel, blade" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,notepad++" /><br>
 </div>
 
 <div align="center">
