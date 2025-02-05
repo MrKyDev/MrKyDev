@@ -56,7 +56,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="60" height="60" alt="Blender" />
 </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="60" height="60" alt="TensorFlow" /></a>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="60" height="60" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img src="https://assets-global.website-files.com/644238b1cf656a0846763003/6486d8b0fa5e67a38ff964d3_brandmark-icon-filled-256.webp" width="60" height="60" alt="Brandmark" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 </p>
 
 <div align="center">
