@@ -59,6 +59,7 @@
 <img src="https://assets-global.website-files.com/644238b1cf656a0846763003/6486d8b0fa5e67a38ff964d3_brandmark-icon-filled-256.webp" width="60" height="60" alt="Brandmark" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 <img src="https://freelogopng.com/images/all_img/1664284918capcut-icon-png.png" width="60" height="60" alt="Capcut" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 <img src="https://laurashoe.com/wp-content/uploads/2019/01/Lightroom-new-logo.png" width="60" height="60" alt="Lightroom" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img src="https://logos-world.net/wp-content/uploads/2020/12/Canva-Logo.png" width="60" height="60" alt="Canva" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 </p>
 
 <div align="center">
