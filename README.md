@@ -58,7 +58,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="60" height="60" alt="TensorFlow" /></a>
 <img src="https://assets-global.website-files.com/644238b1cf656a0846763003/6486d8b0fa5e67a38ff964d3_brandmark-icon-filled-256.webp" width="60" height="60" alt="Brandmark" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 <img src="https://freelogopng.com/images/all_img/1664284918capcut-icon-png.png" width="60" height="60" alt="Capcut" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-<img src="https://i.pinimg.com/originals/ab/aa/5e/abaa5edbcc90b5e327929c542fabe27b.png" width="80" height="60" alt="Lightroom" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img src="https://laurashoe.com/wp-content/uploads/2019/01/Lightroom-new-logo.png" width="80" height="60" alt="Lightroom" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 </p>
 
 <div align="center">
