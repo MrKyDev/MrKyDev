@@ -11,6 +11,7 @@
 
 <div align="center">
   🌱 I’m currently learning HTML, CSS, JavaScript, Tailwind, C++, Python, Laravel, Blade<br>
+  🖥️ Learning Basic Ethical Hacking on progress
   💬 Ask me anything: <a href="mailto:kydev1323@gmail.com">kydev1323@gmail.com</a>
 </div>
 
