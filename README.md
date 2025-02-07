@@ -12,7 +12,7 @@
 <div align="center">
   🌱 I’m currently learning HTML, CSS, JavaScript, Tailwind, C++, Python, Laravel, Blade<br>
   🖥️ Learning Basic Ethical Hacking on progress<br>
-  💬 Get in touch with me <button onclick="window.location.href='mailto:kydev1323@gmail.com';">Click Here</button>
+  💬 Get in touch with me <a href="mailto:kydev1323@gmail.com" class="button">Click Here</a>
 </div>
 
 <div align="center"> 
