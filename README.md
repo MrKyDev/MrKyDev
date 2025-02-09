@@ -59,7 +59,6 @@
 <img src="https://assets-global.website-files.com/644238b1cf656a0846763003/6486d8b0fa5e67a38ff964d3_brandmark-icon-filled-256.webp" width="60" height="60" alt="Brandmark" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 <img src="https://freelogopng.com/images/all_img/1664284918capcut-icon-png.png" width="60" height="60" alt="Capcut" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 <img src="https://laurashoe.com/wp-content/uploads/2019/01/Lightroom-new-logo.png" width="60" height="60" alt="Lightroom" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-<img src="https://www.pngall.com/wp-content/uploads/13/Canva-Logo-PNG-Pic.png" width="100" height="55" alt="Canva" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 </p>
 
 <div align="center">
@@ -76,6 +75,8 @@
     <!--Top Laguages in Percentages-->
      <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKyDev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
+
+#Games
 
 <br/>
 <hr/>
