@@ -79,7 +79,7 @@
 </br>
 <rm>
     <div>
-<h1 align="center">
+<h1 align="center">Games I play</h1>
 <img src="https://laurashoe.com/wp-content/uploads/2019/01/Lightroom-new-logo.png" width="60" height="60" alt="Lightroom" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 </a>div
 <br/>
