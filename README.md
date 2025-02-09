@@ -80,7 +80,7 @@
 <rm>
     <div>
 <h1 align="center">Games I play</h1>
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=pYqBmdvD&id=B516C5621E472F560C394FCAC52B6DABBDE2BA2B&thid=OIP.pYqBmdvDwc33A3RhomjneAHaEK&mediaurl=https%3a%2f%2fmedia.sketchfab.com%2fmodels%2f243f544627214afeb17535ce53ca75fa%2fthumbnails%2f220b50db33464ae5aa902a30704bb92f%2f1024x576.jpeg&exph=576&expw=1024&q=league+of+legends+logo+template&simid=608050156128007397&FORM=IRPRST&ck=59A68BD7CFC1794EC700858A6F1ECBCC&selectedIndex=7&itb=0&ajaxhist=0&ajaxserp=0" width="60" height="60" alt="Lightroom" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img src="https://th.bing.com/th/id/OIP.qmCDUyWuCY4pclZQfJ4dCQHaEk?w=728&h=449&rs=1&pid=ImgDetMain" width="60" height="60" alt="LoL" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 </a>
 <br/>
 <hr/>
