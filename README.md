@@ -81,7 +81,7 @@
     <div>
 <h1 align="center">Games I play</h1>
 <img src="https://i.imgur.com/6PSraK6.jpg" width="60" height="60" alt="LoL" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-<img src="https://logolook.net/wp-content/uploads/2022/12/Valorant-Emblem-2048x1152.png" width="60" height="60" alt="Valo" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img src="https://logolook.net/wp-content/uploads/2022/12/Valorant-Emblem-2048x1152.png" width="90" height="60" alt="Valo" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 </a>
 <br/>
 <hr/>
