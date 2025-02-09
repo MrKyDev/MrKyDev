@@ -80,7 +80,7 @@
 <rm>
     <div>
 <h1 align="center">Games I play</h1>
-<img src="https://th.bing.com/th/id/OIP.qmCDUyWuCY4pclZQfJ4dCQHaEk?w=728&h=449&rs=1&pid=ImgDetMain" width="60" height="60" alt="LoL" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img src="https://i.imgur.com/6PSraK6.jpg" width="60" height="60" alt="LoL" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 </a>
 <br/>
 <hr/>
