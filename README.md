@@ -12,7 +12,7 @@
 <div align="center">
   🌱 I’m currently learning HTML, CSS, JavaScript, Java, Tailwind, C++, Python, Laravel, Blade, Photoshop<br>
   🖥️ Learning Basic Web Vulnerabilities<br>
-  
+  🖥️ Learning Machine Learning<br>
   💬 Get in touch with me <a href="mailto:kydev1323@gmail.com" class="button"><img src="https://www.pinclipart.com/picdir/big/143-1432236_contacts-us-mail-mail-gif-us-mail-gifs.png" width="3%" ></a>
 </div>
 
