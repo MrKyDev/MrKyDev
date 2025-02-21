@@ -6,7 +6,6 @@
 
 ![snake gif](https://github.com/MrKyDev/MrKyDev/blob/output/github-snake-dark.svg)
 
-
 <h3 align="center">Frontend Developer</h3>
 
 <div align="center">
