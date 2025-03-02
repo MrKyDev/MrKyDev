@@ -9,7 +9,7 @@
 <h3 align="center">Frontend Developer</h3>
 
 <div align="center">
-  🌱 I’m currently learning HTML, CSS, JavaScript, Java, Tailwind, C++, Python, Laravel, Photoshop, After Effects, and MySQL<br>
+  🌱 I’m currently learning HTML, CSS, JavaScript, Java, Tailwind, C++, Python, Laravel, Photoshop, and MySQL<br>
   🖥️ I’m currently Learning Basic Web Vulnerabilities and Machine Language<br>
   💬 Get in touch with me <a href="mailto:kydev1323@gmail.com" class="button"><img src="https://www.pinclipart.com/picdir/big/143-1432236_contacts-us-mail-mail-gif-us-mail-gifs.png" width="3%" ></a>
 </div>
