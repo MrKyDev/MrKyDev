@@ -73,7 +73,6 @@
 </div>
 </br>
 <rm>
-    
     <div>
 <h1 align="center">Games</h1>
 <img src="https://i.imgur.com/6PSraK6.jpg" width="60" height="60" alt="LoL" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
