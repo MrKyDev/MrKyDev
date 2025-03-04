@@ -81,6 +81,6 @@
 <img src="https://th.bing.com/th/id/OIP.E334G0500JuhIqSBLnoPpAHaFD?w=1200&h=818&rs=1&pid=ImgDetMain" width="70" height="60" alt="Valo" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 <img src="https://th.bing.com/th/id/OIP.fDZ8q2nv3-rBi7RXAYnKGQHaEK?rs=1&pid=ImgDetMain" width="70" height="60" alt="Lethal Company" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"></a>
 <img src="https://brandslogos.com/wp-content/uploads/images/large/grand-theft-auto-v-logo.png" width="70" height="60" alt="Lethal Company" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"></a>
-<img src="https://e7.pngegg.com/pngimages/438/512/png-clipart-dota-2-logo-dota-2-counter-strike-global-offensive-defense-of-the-ancients-league-of-legends-the-international-dota-emblem-text.png" width="70" height="60" alt="Lethal Company" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"></a>
+<img src="https://i.pinimg.com/736x/45/c8/7b/45c87b4b7852f71b49f794ab98f6c6a5.jpg" width="70" height="60" alt="Lethal Company" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"></a>
 <br/>
 <hr/>
