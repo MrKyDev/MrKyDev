@@ -8,7 +8,6 @@
 
 <h3 align="center">Frontend Developer</h3>
 
-
 <div align="center">
   🌱 I’m currently learning HTML, CSS, JavaScript, Java, Tailwind, C++, Python, Laravel, Photoshop, and MySQL<br>
   🖥️ I’m currently Learning Basic Web Vulnerabilities and Machine Language<br>
