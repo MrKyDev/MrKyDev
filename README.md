@@ -47,7 +47,6 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="60" height="60" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="60" height="60" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="60" height="60" alt="Photoshop" /></a><a href="https://wix.com" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.viasoft.pl%2FPremiere-Pro-CC-for-Teams-p3765&psig=AOvVaw3_h6U63XnQCTc7sOAZFwbe&ust=1747879838523000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLC59Pi9s40DFQAAAAAdAAAAABBd" width="70" height="75" alt="Premiere" /></a><a href="https://wix.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="60" height="60" alt="Arduino" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="60" height="60" alt="Blender" />
 </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer">
