@@ -61,7 +61,7 @@
   <img width="390" src="https://streak-stats.demolab.com/?user=MrKyDev&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
 
   <!-- GitHub Stats -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=MrKyDev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=MrKyDev&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
   <!--Top Language-->
   <img width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKyDev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
   <br/>
