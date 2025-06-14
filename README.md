@@ -56,16 +56,17 @@
 <img src="https://laurashoe.com/wp-content/uploads/2019/01/Lightroom-new-logo.png" width="60" height="60" alt="Lightroom" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 <img src="https://images.icon-icons.com/3053/PNG/512/adobe_premiere_pro_alt_macos_bigsur_icon_190431.png" width="60" height="60" alt="Adobe Premiere Pro" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 </p>
-
-<div align="center">
+<p align="center">
   <!-- Streak Stats -->
   <img width="390" src="https://streak-stats.demolab.com/?user=MrKyDev&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats"/>
-
-  <!-- GitHub Stats -->
+  <br>
+<!--Top Language-->
+  <img width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKyDev&hide=HTML&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
+    <br/>
+   <!-- GitHub Stats -->
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=MrKyDev&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
-  
-  <br/>
-  
+<div align="center">
+</p>  
 <rm>    
     <div>
 
