@@ -6,7 +6,7 @@
 
 ![snake gif](https://github.com/MrKyDev/MrKyDev/blob/output/github-snake-dark.svg)
 
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Eager to become a Full Stack Developer</h3>
 
 <div align="center">
   🌱 I’m currently learning JavaScript, Java, Tailwind, C++, Python, Laravel, Photoshop, Adobe Premiere Pro, After Effects, MySQL, Basic Web Vulnerabilities and Machine Language<br>
