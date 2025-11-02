@@ -30,6 +30,12 @@
 </div>
 
 <hr/>
+<h3 align="center">BADGE</h3>
+<a href="https://www.credly.com/badges/e4717f38-f8ca-4495-bba8-5269bfa498d1">
+  <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="110" alt="Introduction to Cybersecurity Badge">
+</a>
+
+<hr/>
 
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
