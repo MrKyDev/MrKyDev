@@ -31,8 +31,11 @@
 
 <hr/>
 <h3 align="center">BADGE</h3>
-<a href="https://www.credly.com/badges/e4717f38-f8ca-4495-bba8-5269bfa498d1">
+<a href="https://www.credly.com/badges/e4717f38-f8ca-4495-bba8-5269bfa498d1" target="_blank">
   <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="110" alt="Introduction to Cybersecurity Badge">
+</a>
+<a href="https://www.credly.com/badges/76e380e0-7f61-4dd3-a709-c4e8b01300d6" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="110" alt="Endpoint Security Badge">
 </a>
 
 <hr/>
