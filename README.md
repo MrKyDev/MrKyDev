@@ -82,7 +82,7 @@
 
 <h1 align="center">Games</h1>
 <img src="https://i.imgur.com/6PSraK6.jpg" width="60" height="60" alt="LoL" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-<img src="https://th.bing.com/th/id/OIP.E334G0500JuhIqSBLnoPpAHaFD?w=1200&h=818&rs=1&pid=ImgDetMain" width="70" height="60" alt="Valo" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+
 
 
 
