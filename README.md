@@ -57,8 +57,6 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="60" height="60" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="60" height="60" alt="Photoshop" /></a><a href="https://wix.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="60" height="60" alt="Arduino" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="60" height="60" alt="Blender" />
-</a><a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="60" height="60" alt="TensorFlow" /></a>
 <img src="https://assets-global.website-files.com/644238b1cf656a0846763003/6486d8b0fa5e67a38ff964d3_brandmark-icon-filled-256.webp" width="60" height="60" alt="Brandmark" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
 <img src="https://freelogopng.com/images/all_img/1664284918capcut-icon-png.png" width="60" height="60" alt="Capcut" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
