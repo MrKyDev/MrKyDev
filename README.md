@@ -10,7 +10,7 @@
 
 <div align="center">
   🌱 I’m currently learning JavaScript, Java, Tailwind, C++, Python, Laravel, Photoshop, Adobe Premiere Pro, After Effects, MySQL, Basic Web Vulnerabilities and Machine Language<br>
-  📝 Certified Basic Office Productivity Tool<br>
+  
   💬 Get in touch with me <a href="mailto:kydev1323@gmail.com" class="button"><img src="https://www.pinclipart.com/picdir/big/143-1432236_contacts-us-mail-mail-gif-us-mail-gifs.png" width="3%" ></a>
 </div>
 
