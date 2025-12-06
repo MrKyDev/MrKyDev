@@ -92,6 +92,11 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="60" height="60" alt="NodeJS" style="transition: transform .2s;" />
   </a>
 
+  <!-- Nuxt -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.flyonui.com/fy-assets/icons/nuxt-icon.png" width="60" height="60" alt="NodeJS" style="transition: transform .2s;" />
+  </a>
+
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="60" height="60" alt="Figma" style="transition: transform .2s;" />
