@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MrKyDev.MrKyDev" />
 
 <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+MrKyDev!;+Eager+to+be+a+Full+Stack+Dev" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+DevKy!;+Eager+to+be+a+Full+Stack+Dev" />
 </h1>
 
 ![snake gif](https://github.com/MrKyDev/MrKyDev/blob/output/github-snake-dark.svg)
