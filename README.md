@@ -41,24 +41,81 @@
 
 <hr/>
 
-<p align="center">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="60" height="60" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="60" height="60" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="60" height="60" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="60" height="60" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="60" height="60" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="60" height="60" alt="HTML5" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
-<img src="https://clipground.com/images/react-js-logo-4.png" width="60" height="60" alt="React JS" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="60" height="60" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="60" height="60" alt="NodeJS" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer">
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="60" height="60" alt="Git" style="transition: transform .2s;" />
+  </a>
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="60" height="60" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="60" height="60" alt="Photoshop" /></a><a href="https://wix.com" target="_blank" rel="noreferrer">
-<img src="https://laurashoe.com/wp-content/uploads/2019/01/Lightroom-new-logo.png" width="60" height="60" alt="Lightroom" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-<img src="https://images.icon-icons.com/3053/PNG/512/adobe_premiere_pro_alt_macos_bigsur_icon_190431.png" width="60" height="60" alt="Adobe Premiere Pro" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <!-- Java -->
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="60" height="60" alt="Java" style="transition: transform .2s;" />
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="60" height="60" alt="JavaScript" style="transition: transform .2s;" />
+  </a>
+
+  <!-- PHP -->
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="60" height="60" alt="PHP" style="transition: transform .2s;" />
+  </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60" alt="Python" style="transition: transform .2s;" />
+  </a>
+
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="60" height="60" alt="VS Code" style="transition: transform .2s;" />
+  </a>
+
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="60" height="60" alt="HTML5" style="transition: transform .2s;" />
+  </a>
+
+  <!-- React -->
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://clipground.com/images/react-js-logo-4.png" width="60" height="60" alt="React JS" style="transition: transform .2s;" />
+  </a>
+
+  <!-- Tailwind -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="60" height="60" alt="TailwindCSS" style="transition: transform .2s;" />
+  </a>
+
+  <!-- NodeJS -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="60" height="60" alt="NodeJS" style="transition: transform .2s;" />
+  </a>
+
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="60" height="60" alt="Figma" style="transition: transform .2s;" />
+  </a>
+
+  <!-- Photoshop -->
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="60" height="60" alt="Photoshop" style="transition: transform .2s;" />
+  </a>
+
+  <!-- Lightroom -->
+  <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer">
+    <img src="https://laurashoe.com/wp-content/uploads/2019/01/Lightroom-new-logo.png" width="60" height="60" alt="Lightroom" style="transition: transform .2s;" />
+  </a>
+
+  <!-- Premiere Pro -->
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
+    <img src="https://images.icon-icons.com/3053/PNG/512/adobe_premiere_pro_alt_macos_bigsur_icon_190431.png" width="60" height="60" alt="Adobe Premiere Pro" style="transition: transform .2s;" />
+  </a>
 </p>
+
+
+
+
 <p align="center">
   <!-- Streak Stats -->
   <img width="390" src="https://streak-stats.demolab.com/?user=MrKyDev&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats"/>
