@@ -62,14 +62,14 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="60" height="60" alt="PHP" style="transition: transform .2s;" />
   </a>
 
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <!-- Laravel -->
+  <a href="https://laravel.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60" alt="Python" style="transition: transform .2s;" />
   </a>
 
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="60" height="60" alt="VS Code" style="transition: transform .2s;" />
+    <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" width="60" height="60" alt="VS Code" style="transition: transform .2s;" />
   </a>
 
   <!-- HTML -->
@@ -93,7 +93,7 @@
   </a>
 
   <!-- Nuxt -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.flyonui.com/fy-assets/icons/nuxt-icon.png" width="60" height="60" alt="NodeJS" style="transition: transform .2s;" />
   </a>
 
