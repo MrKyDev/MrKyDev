@@ -123,18 +123,25 @@
   </a>
 </p>
 
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img width="390" src="https://streak-stats.demolab.com/?user=MrKyDev&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats"/>
-  <br>
-<!--Top Language-->
-  <img width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKyDev&hide=HTML&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
-    <br/>
-   <!-- GitHub Stats -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=MrKyDev&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
+<!-- GitHub Stats Section -->
 <div align="center">
-</p>  
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com/?user=MrKyDev&theme=highcontrast&hide_border=true&border_radius=10" width="400" alt="GitHub Streak"/>
+  
+  <br/><br/>
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKyDev&hide=HTML&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" width="400" alt="Top Languages"/>
+
+  <br/><br/>
+
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MrKyDev&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" width="400" alt="GitHub Stats"  />
+</div>
 <rm>    
     <div>
 
