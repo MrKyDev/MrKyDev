@@ -97,6 +97,11 @@
     <img src="https://cdn.flyonui.com/fy-assets/icons/nuxt-icon.png" width="60" height="60" alt="NodeJS" style="transition: transform .2s;" />
   </a>
 
+  <!-- Postgres -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/postgresql-logo-png-transparent.png" width="60" height="60" alt="NodeJS" style="transition: transform .2s;" />
+  </a>
+        <br>
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="60" height="60" alt="Figma" style="transition: transform .2s;" />
@@ -109,16 +114,14 @@
 
   <!-- Lightroom -->
   <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer">
-    <img src="https://laurashoe.com/wp-content/uploads/2019/01/Lightroom-new-logo.png" width="60" height="60" alt="Lightroom" style="transition: transform .2s;" />
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/lightroom-cc-logo-png-transparent.png" width="60" height="60" alt="Lightroom" style="transition: transform .2s;" />
   </a>
 
   <!-- Premiere Pro -->
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://images.icon-icons.com/3053/PNG/512/adobe_premiere_pro_alt_macos_bigsur_icon_190431.png" width="60" height="60" alt="Adobe Premiere Pro" style="transition: transform .2s;" />
+    <img src="https://logospng.org/download/adobe-premiere-pro/logo-premiere-pro-1024.png" width="60" height="60" alt="Adobe Premiere Pro" style="transition: transform .2s;" />
   </a>
 </p>
-
-
 
 
 <p align="center">
